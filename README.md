@@ -1,4 +1,6 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://static.wikia.nocookie.net/dank_memer/images/c/ca/DankBinary.gif/revision/latest?cb=20211212183124" width="30px"> Hi there 🖖 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://static.wikia.nocookie.net/dank_memer/images/c/ca/DankBinary.gif/revision/latest?cb=20211212183124" width="30px">
+
+## <img src="https://static.wikia.nocookie.net/dank_memer/images/c/ca/DankBinary.gif/revision/latest?cb=20211212183124" width="30px"> Hi there 🖖 <img src=https://static.wikia.nocookie.net/dank_memer/images/c/ca/DankBinary.gif/revision/latest?cb=20211212183124" width="30px">
+
 <!--
 **digiDevemon/digiDevemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +20,5 @@ Here are some ideas to get you started:
     <a href="https://github.com/digiDevemon/digiDevemon/graphs/contributors"><img src="https://img.shields.io/github/contributors/digiDevemon/digiDevemon?color=blue"></a>
     <a href="https://github.com/digiDevemon/digiDevemon/stargazers"><img src="https://img.shields.io/github/stars/digiDevemon/digiDevemon?logo=github"></a>
     <a href="https://github.com/digiDevemon/digiDevemon/network/members"><img src="https://img.shields.io/github/forks/digiDevemon/digiDevemon?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=digiDevemon" alt="visitors"/>
 </p>
