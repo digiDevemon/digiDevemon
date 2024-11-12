@@ -25,4 +25,10 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=digiDevemon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=digiDevemon&theme=dark&hide_border=false)<br/>
+
+
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=digiDevemon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=digiDevemon&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=digiDevemon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
