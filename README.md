@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=digiDevemon&theme=dark&hide_border=false)<br/>
 
 <p float="left">
-    <img width=300 src='https://github-readme-stats.vercel.app/api/top-langs/?username=digiDevemon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact' />
-    <img width=300 src='https://github-readme-streak-stats.herokuapp.com/?user=digiDevemon&theme=dark&hide_border=false' />
+    <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=digiDevemon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact' />
+    <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=digiDevemon&theme=dark&hide_border=false' />
 </p>
 
