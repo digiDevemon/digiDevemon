@@ -22,3 +22,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/digiDevemon/digiDevemon/network/members"><img src="https://img.shields.io/github/forks/digiDevemon/digiDevemon?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=digiDevemon" alt="visitors"/>
 </p>
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=digiDevemon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
